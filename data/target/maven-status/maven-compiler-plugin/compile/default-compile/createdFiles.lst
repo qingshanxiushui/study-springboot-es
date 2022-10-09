@@ -1,0 +1,8 @@
+org\example\yqs\entity\Person.class
+org\example\yqs\test\SpringDataESIndexTest.class
+org\example\yqs\App.class
+org\example\yqs\configuration\EsConfiguration.class
+org\example\yqs\configuration\properties\EsProperties.class
+org\example\yqs\helloWorldApplication.class
+org\example\yqs\controller\HelloController.class
+org\example\yqs\repository\PersonRepository.class
